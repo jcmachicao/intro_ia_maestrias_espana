@@ -1,2 +1,2 @@
-# intro_ia_maestrias_espa-a
+# Introducción a IA
 Introducción a IA para Maestristas UC
